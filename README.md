@@ -6,6 +6,7 @@ See the guided project (https://www.coursera.org/projects/chatbot-rasa-python) f
 # How to Run
 
 > Open Terminal in timezonebot folder
+> 
 > type 
 ```
 rasa shell
